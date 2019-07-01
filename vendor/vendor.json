@@ -1,6 +1,47 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
+	"package": [
+		{
+			"checksumSHA1": "O1v7ZY6psIKMtE2Ma/hp1myzM2o=",
+			"path": "github.com/globalsign/mgo",
+			"revision": "eeefdecb41b842af6dc652aaea4026e8403e62df",
+			"revisionTime": "2018-10-15T13:59:52Z"
+		},
+		{
+			"checksumSHA1": "zdy6XflmESAiFmyptSqpUMfXSyo=",
+			"path": "github.com/globalsign/mgo/bson",
+			"revision": "eeefdecb41b842af6dc652aaea4026e8403e62df",
+			"revisionTime": "2018-10-15T13:59:52Z"
+		},
+		{
+			"checksumSHA1": "//bXQG4HblBwxHJDIW/PklXAxu0=",
+			"path": "github.com/globalsign/mgo/internal/json",
+			"revision": "eeefdecb41b842af6dc652aaea4026e8403e62df",
+			"revisionTime": "2018-10-15T13:59:52Z"
+		},
+		{
+			"checksumSHA1": "loubUcDO2QAStKIlVd7DqSeoEaw=",
+			"path": "github.com/globalsign/mgo/internal/sasl",
+			"revision": "eeefdecb41b842af6dc652aaea4026e8403e62df",
+			"revisionTime": "2018-10-15T13:59:52Z"
+		},
+		{
+			"checksumSHA1": "xjfEsfN7ho6dDOVeUQJhW4KzD2I=",
+			"path": "github.com/globalsign/mgo/internal/scram",
+			"revision": "eeefdecb41b842af6dc652aaea4026e8403e62df",
+			"revisionTime": "2018-10-15T13:59:52Z"
+		},
+		{
+			"path": "github.com/gorila/mux",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VTqrNjHE7v3Bisuo0NHGS1r+6I0=",
+			"path": "github.com/gorilla/mux",
+			"revision": "212aa90d7cec051ab29930d5c56f758f6f69a789",
+			"revisionTime": "2019-06-24T16:05:39Z"
+		}
+	],
 	"rootPath": "github.com/PhamDuyKhang/dockerlearning"
 }
